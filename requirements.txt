@@ -1,0 +1,5 @@
+docx2txt==0.8
+openai==1.53.0
+PyPDF2==3.0.1
+pyperclip==1.9.0
+streamlit==1.39.0
